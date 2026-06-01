@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.1.007",
-    "released":  "2026-05-30T12:37:02Z",
-    "sha256":  "1e74535b34aaccdd65a4a983089c266072a6c3c200f36018cd33e71b85c2ac9f",
-    "notes":  "auto reload newer blob",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.007/FoxMind.exe"
+    "version":  "0.1.009",
+    "released":  "2026-06-01T08:05:21Z",
+    "sha256":  "40fb7f1f758a40f13a042aea60a0e6337bf1150d430b05692472f01cfc0bfe3b",
+    "notes":  "Large map handling change",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.009/FoxMind.exe"
 }
