@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.1.009",
-    "released":  "2026-06-01T08:05:21Z",
-    "sha256":  "40fb7f1f758a40f13a042aea60a0e6337bf1150d430b05692472f01cfc0bfe3b",
-    "notes":  "Large map handling change",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.009/FoxMind.exe"
+    "version":  "0.1.010",
+    "released":  "2026-06-01T15:03:35Z",
+    "sha256":  "660fef6ef6848591c32d7339d19503e89446be68592ebc18db18aa222e659b04",
+    "notes":  "Fresh IDs for restored nodes, so they don\u0027t match a delete",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.010/FoxMind.exe"
 }
