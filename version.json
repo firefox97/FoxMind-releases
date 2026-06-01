@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.1.010",
-    "released":  "2026-06-01T15:03:35Z",
-    "sha256":  "660fef6ef6848591c32d7339d19503e89446be68592ebc18db18aa222e659b04",
-    "notes":  "Fresh IDs for restored nodes, so they don\u0027t match a delete",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.010/FoxMind.exe"
+    "version":  "0.1.011",
+    "released":  "2026-06-01T16:50:04Z",
+    "sha256":  "319c27216937282e29c6d6348c12fc99ca39044043ee928cab141f149c60e50d",
+    "notes":  "Test release to force update",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.011/FoxMind.exe"
 }
