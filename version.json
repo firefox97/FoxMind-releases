@@ -1,7 +1,9 @@
 ﻿{
-    "version":  "0.1.012",
-    "released":  "2026-06-01T16:58:11Z",
-    "sha256":  "3ef7e42ab09941df95406218e78bb8fa8231f8a3e88724605668dfc2285df2ae",
-    "notes":  "only version flip to test",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.012/FoxMind.exe"
+    "version":  "0.1.019",
+    "released":  "2026-06-01T20:53:56Z",
+    "notes":  "Try exe updater",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.019/FoxMind.exe",
+    "sha256":  "91205ac0ef6df7289b38b312f76457fc3aca5e6ef4db45636a71a2fd2e53dee7",
+    "updater_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.019/foxmind_updater.exe",
+    "updater_sha256":  "d1187dccbead405b3634a264e68bc940665db0f05a4b16bdbbd0878360cf2d62"
 }
