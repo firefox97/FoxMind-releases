@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "0.1.028",
-    "released":  "2026-06-05T10:48:35Z",
-    "notes":  "Work to add mindmap user access",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.028/FoxMind.exe",
-    "sha256":  "34fd49f05e4b2d09dbbf1da1bcd559e182f3838f356554e0c701c9b18a578b92",
-    "updater_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.028/foxmind_updater.exe",
-    "updater_sha256":  "d1187dccbead405b3634a264e68bc940665db0f05a4b16bdbbd0878360cf2d62"
+    "version":  "0.1.031",
+    "released":  "2026-06-05T14:18:37Z",
+    "notes":  "clean up build error",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.031/FoxMind.exe",
+    "sha256":  "11b8f80328b5df6366c9129510b323c8550f53ba5f0786a028bc69fb88bdf5b0",
+    "updater_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.031/foxmind_updater.exe",
+    "updater_sha256":  "5e2c871d266ad472d86dddbd29feefb794d3568e27da83a27291600e83049d3d"
 }
