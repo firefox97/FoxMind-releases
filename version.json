@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "0.1.031",
-    "released":  "2026-06-05T14:18:37Z",
-    "notes":  "clean up build error",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.031/FoxMind.exe",
-    "sha256":  "11b8f80328b5df6366c9129510b323c8550f53ba5f0786a028bc69fb88bdf5b0",
-    "updater_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.031/foxmind_updater.exe",
-    "updater_sha256":  "5e2c871d266ad472d86dddbd29feefb794d3568e27da83a27291600e83049d3d"
+    "version":  "0.1.032",
+    "released":  "2026-06-12T17:12:55Z",
+    "notes":  "add time search, better fractional reorder",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.032/FoxMind.exe",
+    "sha256":  "5125ccbd50bff6abbf6c1e5f9356284dee19277bb8297441015216fa001f6346",
+    "updater_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.032/foxmind_updater.exe",
+    "updater_sha256":  "ec28d2f6d1c27c8abaf7b76aa62ac7e38883e066055eb76e5861cbc5fa89a527"
 }
