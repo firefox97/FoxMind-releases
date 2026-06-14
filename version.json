@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "0.1.032",
-    "released":  "2026-06-12T17:12:55Z",
-    "notes":  "add time search, better fractional reorder",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.032/FoxMind.exe",
-    "sha256":  "5125ccbd50bff6abbf6c1e5f9356284dee19277bb8297441015216fa001f6346",
-    "updater_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.032/foxmind_updater.exe",
-    "updater_sha256":  "ec28d2f6d1c27c8abaf7b76aa62ac7e38883e066055eb76e5861cbc5fa89a527"
+    "version":  "0.1.033",
+    "released":  "2026-06-14T13:22:35Z",
+    "notes":  "Fix clock issues",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.033/FoxMind.exe",
+    "sha256":  "7fb7e544f9800b537dcd0dc01468d428ee32398b738f46e71bc23cdaaaf007b0",
+    "updater_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.033/foxmind_updater.exe",
+    "updater_sha256":  "aa653014373ff7a6dabc5aa8fc1d408eff6d49ca9104deaebe22b77fd169ad46"
 }
