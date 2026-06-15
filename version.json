@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "0.1.033",
-    "released":  "2026-06-14T13:22:35Z",
-    "notes":  "Fix clock issues",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.033/FoxMind.exe",
-    "sha256":  "7fb7e544f9800b537dcd0dc01468d428ee32398b738f46e71bc23cdaaaf007b0",
-    "updater_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.033/foxmind_updater.exe",
+    "version":  "0.1.034",
+    "released":  "2026-06-14T22:24:58Z",
+    "notes":  "updater should work on restart",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.034/FoxMind.exe",
+    "sha256":  "f678570edfdd6f82c3f26583cce9c7431bfa6cb67d09b369792dbcfaf3fbafee",
+    "updater_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.034/foxmind_updater.exe",
     "updater_sha256":  "aa653014373ff7a6dabc5aa8fc1d408eff6d49ca9104deaebe22b77fd169ad46"
 }
