@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "0.1.036",
-    "released":  "2026-06-15T10:33:40Z",
-    "notes":  "release zip as well",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.036/FoxMind.exe",
-    "sha256":  "1cf535fe8991bb190b96de3c2db90df82de9b4331a461b0ced9833772d738986",
-    "updater_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.036/foxmind_updater.exe",
+    "version":  "0.1.037",
+    "released":  "2026-06-15T11:46:46Z",
+    "notes":  "Fix tab not working",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.037/FoxMind.exe",
+    "sha256":  "99a12718c6b132025fe5cccf721ea811915598be09c0a2ea176b1bfeb35ddeb3",
+    "updater_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.037/foxmind_updater.exe",
     "updater_sha256":  "050912703c4979f5b1795105d231a6f71caffaedd65e62e6ce7858d0934c1b1b"
 }
