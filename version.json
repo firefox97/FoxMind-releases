@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "0.1.034",
-    "released":  "2026-06-14T22:24:58Z",
-    "notes":  "updater should work on restart",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.034/FoxMind.exe",
-    "sha256":  "f678570edfdd6f82c3f26583cce9c7431bfa6cb67d09b369792dbcfaf3fbafee",
-    "updater_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.034/foxmind_updater.exe",
-    "updater_sha256":  "aa653014373ff7a6dabc5aa8fc1d408eff6d49ca9104deaebe22b77fd169ad46"
+    "version":  "0.1.035",
+    "released":  "2026-06-15T09:59:51Z",
+    "notes":  "fix to updater access",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.035/FoxMind.exe",
+    "sha256":  "5de5e56cb3e09d230dfc21c23995fafc4624d59c1e74678e05267e09e1bed648",
+    "updater_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.035/foxmind_updater.exe",
+    "updater_sha256":  "050912703c4979f5b1795105d231a6f71caffaedd65e62e6ce7858d0934c1b1b"
 }
