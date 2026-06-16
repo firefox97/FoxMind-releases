@@ -1,11 +1,9 @@
 ﻿{
-    "version":  "0.1.044",
-    "released":  "2026-06-15T21:08:38Z",
-    "notes":  "More polished installer, move to appdata",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.044/FoxMind.exe",
-    "sha256":  "97f091027443aea84640fa6d1e9c90c8c5e1acbd8de17c74ebb6ad4624b21c15",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.044/FoxMindInstaller.exe",
-    "installer_sha256":  "265cbbab42cf12b4a1d341930d56a282ee13a72a0eaed15f150711335d78104f",
-    "updater_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.044/foxmind_updater.exe",
-    "updater_sha256":  "050912703c4979f5b1795105d231a6f71caffaedd65e62e6ce7858d0934c1b1b"
+    "version":  "0.1.049",
+    "released":  "2026-06-15T22:07:21Z",
+    "notes":  "More fixes to installer",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.049/FoxMind.exe",
+    "sha256":  "60d803ac3b57e32c9ba21dc4c7f23861b310d53a91a416c3ab865abf6adeda6e",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.049/FoxMindInstaller.exe",
+    "installer_sha256":  "747188de566b08e0acc9bde32a3a992318e57a2e568a7a4ba79adad671a138bd"
 }
