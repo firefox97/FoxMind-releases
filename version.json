@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "0.1.049",
-    "released":  "2026-06-15T22:07:21Z",
-    "notes":  "More fixes to installer",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.049/FoxMind.exe",
-    "sha256":  "60d803ac3b57e32c9ba21dc4c7f23861b310d53a91a416c3ab865abf6adeda6e",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.049/FoxMindInstaller.exe",
-    "installer_sha256":  "747188de566b08e0acc9bde32a3a992318e57a2e568a7a4ba79adad671a138bd"
+    "version":  "0.1.050",
+    "released":  "2026-06-16T14:41:11Z",
+    "notes":  "Trim release. Fix migration first connect",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.050/FoxMind.exe",
+    "sha256":  "0518eb6b80e0d6c5aaf8b7aeb2b19d7a9ec038a4153887d13b96f423e1401c5e",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.050/FoxMindInstaller.exe",
+    "installer_sha256":  "fb38b15bca2cf8115ecc3f720b8617d25dfc5315c5edcce6f2c6e409842563ac"
 }
