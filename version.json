@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "0.1.050",
-    "released":  "2026-06-16T14:41:11Z",
-    "notes":  "Trim release. Fix migration first connect",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.050/FoxMind.exe",
-    "sha256":  "0518eb6b80e0d6c5aaf8b7aeb2b19d7a9ec038a4153887d13b96f423e1401c5e",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.050/FoxMindInstaller.exe",
-    "installer_sha256":  "fb38b15bca2cf8115ecc3f720b8617d25dfc5315c5edcce6f2c6e409842563ac"
+    "version":  "0.1.053",
+    "released":  "2026-06-16T16:20:10Z",
+    "notes":  "Pull dlls out of exe, to work with corporate",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.053/FoxMind.exe",
+    "sha256":  "b7acae7c7b0ce107593b8c84226f1223b9f949ce2a88f157a2b6365418b724bb",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.053/FoxMindInstaller.exe",
+    "installer_sha256":  "e263c2504c0b2890ba5d78a2752b6c3be1f24698f6b19d1dccf3f1cd237e73dd"
 }
