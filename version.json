@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "0.1.038",
-    "released":  "2026-06-15T19:08:35Z",
-    "notes":  "Add installer",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.038/FoxMind.exe",
-    "sha256":  "c23ce4526846d66fa9f1e3edcc1fb8e53993ec7d45b342050c01b9d8e1389200",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.038/FoxMindInstaller.exe",
-    "installer_sha256":  "b0e56d1be5e09666916ddaf92cc753a255c37c660c9e2be4c975f0c4308fa0bc",
-    "updater_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.038/foxmind_updater.exe",
+    "version":  "0.1.040",
+    "released":  "2026-06-15T19:28:11Z",
+    "notes":  "Fix installer to run standalone",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.040/FoxMind.exe",
+    "sha256":  "58e92a25b480dd6e5fe77e43bffb7ba408bba48ae939b175400114d18a62c49c",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.040/FoxMindInstaller.exe",
+    "installer_sha256":  "189705505abf8ce248068cb922307fa07cb95b8e186477683535cf8d7033b714",
+    "updater_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.040/foxmind_updater.exe",
     "updater_sha256":  "050912703c4979f5b1795105d231a6f71caffaedd65e62e6ce7858d0934c1b1b"
 }
