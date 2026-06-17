@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "0.1.053",
-    "released":  "2026-06-16T16:20:10Z",
-    "notes":  "Pull dlls out of exe, to work with corporate",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.053/FoxMind.exe",
-    "sha256":  "b7acae7c7b0ce107593b8c84226f1223b9f949ce2a88f157a2b6365418b724bb",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.053/FoxMindInstaller.exe",
-    "installer_sha256":  "e263c2504c0b2890ba5d78a2752b6c3be1f24698f6b19d1dccf3f1cd237e73dd"
+    "version":  "0.1.054",
+    "released":  "2026-06-17T09:39:39Z",
+    "notes":  "Try to use corporate certificate to auth",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.054/FoxMind.exe",
+    "sha256":  "0035662ebd62c6caf0dc465e624e338001f2faadf087930bbf617f6779cc4679",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.054/FoxMindInstaller.exe",
+    "installer_sha256":  "91c11f056e78f82c3ff4d2602bf13393d1db310717bd74317d575cfcbc2cec2e"
 }
