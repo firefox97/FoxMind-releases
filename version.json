@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "0.1.054",
-    "released":  "2026-06-17T09:39:39Z",
-    "notes":  "Try to use corporate certificate to auth",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.054/FoxMind.exe",
-    "sha256":  "0035662ebd62c6caf0dc465e624e338001f2faadf087930bbf617f6779cc4679",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.054/FoxMindInstaller.exe",
-    "installer_sha256":  "91c11f056e78f82c3ff4d2602bf13393d1db310717bd74317d575cfcbc2cec2e"
+    "version":  "0.1.055",
+    "released":  "2026-06-17T14:18:06Z",
+    "notes":  "Add ctrl drag and improve all copy (add branch vs node prompts)",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.055/FoxMind.exe",
+    "sha256":  "4f0e9a5398944747229a5ef0ef9183181f3f72d8a5b0bda2123fa24fd473fc12",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.055/FoxMindInstaller.exe",
+    "installer_sha256":  "cbde885fb1e4651df3ac9ea3e1ad1773fb56444d1c991c18ac81b2be697c74d5"
 }
