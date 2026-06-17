@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "0.1.055",
-    "released":  "2026-06-17T14:18:06Z",
-    "notes":  "Add ctrl drag and improve all copy (add branch vs node prompts)",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.055/FoxMind.exe",
-    "sha256":  "4f0e9a5398944747229a5ef0ef9183181f3f72d8a5b0bda2123fa24fd473fc12",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.055/FoxMindInstaller.exe",
-    "installer_sha256":  "cbde885fb1e4651df3ac9ea3e1ad1773fb56444d1c991c18ac81b2be697c74d5"
+    "version":  "0.1.056",
+    "released":  "2026-06-17T15:36:31Z",
+    "notes":  "Clear up multi auth needed",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.056/FoxMind.exe",
+    "sha256":  "c0388e9bc114f0357fea0c65d1a1ee11e50fb769f4ea40c6ad193c29dede57e7",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.056/FoxMindInstaller.exe",
+    "installer_sha256":  "ed67c09f98d485e90efd69f5df345317bffbc9e5c97503818a5a52ab01eda9fa"
 }
