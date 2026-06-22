@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "0.1.056",
-    "released":  "2026-06-17T15:36:31Z",
-    "notes":  "Clear up multi auth needed",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.056/FoxMind.exe",
-    "sha256":  "c0388e9bc114f0357fea0c65d1a1ee11e50fb769f4ea40c6ad193c29dede57e7",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.056/FoxMindInstaller.exe",
-    "installer_sha256":  "ed67c09f98d485e90efd69f5df345317bffbc9e5c97503818a5a52ab01eda9fa"
+    "version":  "0.1.057",
+    "released":  "2026-06-22T14:15:22Z",
+    "notes":  "Fix Not correctly using uuid",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.057/FoxMind.exe",
+    "sha256":  "fead6c23508aeda59d12c364c9fb4b68a2b811241e5d1505e25cc1990c950260",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.057/FoxMindInstaller.exe",
+    "installer_sha256":  "b637ccb27f615b9fdbe194dbef53d31d2bdb5af9d9825af462e3d31182d9d53b"
 }
