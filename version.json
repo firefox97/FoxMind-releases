@@ -1,9 +1,11 @@
 ﻿{
-    "version":  "0.1.057",
-    "released":  "2026-06-22T14:15:22Z",
-    "notes":  "Fix Not correctly using uuid",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.057/FoxMind.exe",
-    "sha256":  "fead6c23508aeda59d12c364c9fb4b68a2b811241e5d1505e25cc1990c950260",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.057/FoxMindInstaller.exe",
-    "installer_sha256":  "b637ccb27f615b9fdbe194dbef53d31d2bdb5af9d9825af462e3d31182d9d53b"
+    "version":  "0.1.058",
+    "released":  "2026-06-22T21:34:23Z",
+    "notes":  "Try to add exe repair if blocked",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.058/FoxMind.exe",
+    "sha256":  "591b158662ac77ecfc888d4b138cf1d5d685c4651bca97c51de69c3ef54b6c53",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.058/FoxMindInstaller.exe",
+    "installer_sha256":  "623b85a07c6511de44bbf22cc8ca0851446977ae027e4b5baf31aef3305897e4",
+    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.058/FoxMind.ex_",
+    "fallback_sha256":  "591b158662ac77ecfc888d4b138cf1d5d685c4651bca97c51de69c3ef54b6c53"
 }
