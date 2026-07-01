@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "0.1.059",
-    "released":  "2026-06-30T22:47:11Z",
-    "notes":  "Don\u0027t send node before text is added.",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.059/FoxMind.exe",
-    "sha256":  "9f403380a72c81bfc1822d02a9622efcbeaf93b91c9a774a4f871c9466e87287",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.059/FoxMindInstaller.exe",
-    "installer_sha256":  "fa714145c74b15a0608d1e505ed79b61c4f4b5a6795a49f5c4383ba2d2b0aafc",
-    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.059/FoxMind.ex_",
-    "fallback_sha256":  "9f403380a72c81bfc1822d02a9622efcbeaf93b91c9a774a4f871c9466e87287"
+    "version":  "0.1.060",
+    "released":  "2026-07-01T03:44:23Z",
+    "notes":  "Update packages, safe reconnect issue",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.060/FoxMind.exe",
+    "sha256":  "3671a58b1e77e0ea9bef4a3dc0a03a10268bb0c8e5484d51ef04ed70933462bf",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.060/FoxMindInstaller.exe",
+    "installer_sha256":  "79464c950f196ec6949a3c9458a1abd40c38f1cc59b6499e99bf539a900465a8",
+    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.060/FoxMind.ex_",
+    "fallback_sha256":  "3671a58b1e77e0ea9bef4a3dc0a03a10268bb0c8e5484d51ef04ed70933462bf"
 }
