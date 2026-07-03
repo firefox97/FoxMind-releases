@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "0.1.061",
-    "released":  "2026-07-01T08:57:58Z",
-    "notes":  "Big fixes to Realtime Sync.",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.061/FoxMind.exe",
-    "sha256":  "bf0131d7a0d300cfd7afd919a240426e4455160911e931c3894d1831875b0e91",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.061/FoxMindInstaller.exe",
-    "installer_sha256":  "8ddd84d76b79a7c16a4db06d3f1b94dd1263daea95a6aaeb9ea248910782b4f2",
-    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.061/FoxMind.ex_",
-    "fallback_sha256":  "bf0131d7a0d300cfd7afd919a240426e4455160911e931c3894d1831875b0e91"
+    "version":  "0.1.062",
+    "released":  "2026-07-03T12:05:30Z",
+    "notes":  "Add Update keep looking for newest.",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.062/FoxMind.exe",
+    "sha256":  "e670c94e711b540760ceb70839d87fb5867c7d152eda1056153d55ba75f27d8a",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.062/FoxMindInstaller.exe",
+    "installer_sha256":  "ee62e4f7a85f5e511ebd8197dbd55782d098fc86d7b773a7586b48497ee99106",
+    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.062/FoxMind.ex_",
+    "fallback_sha256":  "e670c94e711b540760ceb70839d87fb5867c7d152eda1056153d55ba75f27d8a"
 }
