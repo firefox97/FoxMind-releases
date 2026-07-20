@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "0.1.062",
-    "released":  "2026-07-03T12:05:30Z",
-    "notes":  "Add Update keep looking for newest.",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.062/FoxMind.exe",
-    "sha256":  "e670c94e711b540760ceb70839d87fb5867c7d152eda1056153d55ba75f27d8a",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.062/FoxMindInstaller.exe",
-    "installer_sha256":  "ee62e4f7a85f5e511ebd8197dbd55782d098fc86d7b773a7586b48497ee99106",
-    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.062/FoxMind.ex_",
-    "fallback_sha256":  "e670c94e711b540760ceb70839d87fb5867c7d152eda1056153d55ba75f27d8a"
+    "version":  "0.1.063",
+    "released":  "2026-07-20T17:31:20Z",
+    "notes":  "Add more diagnostic logging to try and catch the freeze bug.",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.063/FoxMind.exe",
+    "sha256":  "63e079f61a9918dfd423edfc91284ac351541c1835c9e70ea9dab30cc91e372e",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.063/FoxMindInstaller.exe",
+    "installer_sha256":  "4eee928e63ed8f7f449e3f5f7297333a94eba58eade4ea5d178efe60be4084a3",
+    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.063/FoxMind.ex_",
+    "fallback_sha256":  "63e079f61a9918dfd423edfc91284ac351541c1835c9e70ea9dab30cc91e372e"
 }
