@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "0.1.064",
-    "released":  "2026-07-21T06:58:17Z",
-    "notes":  "Change to watch for 5 sec ui freeze",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.064/FoxMind.exe",
-    "sha256":  "8efc4f14dab6f47255b653cde1d6a85b6cb49845c15244fa2a310ee74196b12c",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.064/FoxMindInstaller.exe",
-    "installer_sha256":  "ff6651e3cd72a3522a06f85fd397fcc47b2d05990cd5f97260d27022ba87664f",
-    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.064/FoxMind.ex_",
-    "fallback_sha256":  "8efc4f14dab6f47255b653cde1d6a85b6cb49845c15244fa2a310ee74196b12c"
+    "version":  "0.1.065",
+    "released":  "2026-07-21T17:00:19Z",
+    "notes":  "Fix realtime reconnect",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.065/FoxMind.exe",
+    "sha256":  "ff40d21d9f90ae3f809573478ef81d7b30915d7ba7887a48d0526c777330d5f4",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.065/FoxMindInstaller.exe",
+    "installer_sha256":  "de214d914026e891322fb305bd9532a4b3c771e4a903cbd99b9b4350d66431c7",
+    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.065/FoxMind.ex_",
+    "fallback_sha256":  "ff40d21d9f90ae3f809573478ef81d7b30915d7ba7887a48d0526c777330d5f4"
 }
