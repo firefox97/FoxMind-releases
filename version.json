@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "0.1.066",
-    "released":  "2026-08-05T11:07:01Z",
-    "notes":  "Fix Realtime dropping auth too often",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.066/FoxMind.exe",
-    "sha256":  "77604ed8c610f8f04f86f01ff19eba80d871fed8656246a8eb4ea964f8771a56",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.066/FoxMindInstaller.exe",
-    "installer_sha256":  "de0dbcc1996b9a4b24a261a5cd51da55aa4db53d438e21d4d273e9cae6316e94",
-    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.066/FoxMind.ex_",
-    "fallback_sha256":  "77604ed8c610f8f04f86f01ff19eba80d871fed8656246a8eb4ea964f8771a56"
+    "version":  "0.1.067",
+    "released":  "2026-08-11T08:20:36Z",
+    "notes":  "Toggle for verbose logging in diagnostics panel",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.067/FoxMind.exe",
+    "sha256":  "21e1eb1a2cdf8d0ef9591c211194dade652c97e7424465ae8dc4261a90dc975e",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.067/FoxMindInstaller.exe",
+    "installer_sha256":  "5fafd1f4cd45da9c7c4f3f8d007db8e56ff0de20646c52c9d78d04dfc5792e22",
+    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.067/FoxMind.ex_",
+    "fallback_sha256":  "21e1eb1a2cdf8d0ef9591c211194dade652c97e7424465ae8dc4261a90dc975e"
 }
