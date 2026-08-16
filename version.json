@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "0.1.067",
-    "released":  "2026-08-11T08:20:36Z",
-    "notes":  "Toggle for verbose logging in diagnostics panel",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.067/FoxMind.exe",
-    "sha256":  "21e1eb1a2cdf8d0ef9591c211194dade652c97e7424465ae8dc4261a90dc975e",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.067/FoxMindInstaller.exe",
-    "installer_sha256":  "5fafd1f4cd45da9c7c4f3f8d007db8e56ff0de20646c52c9d78d04dfc5792e22",
-    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.067/FoxMind.ex_",
-    "fallback_sha256":  "21e1eb1a2cdf8d0ef9591c211194dade652c97e7424465ae8dc4261a90dc975e"
+    "version":  "0.1.068",
+    "released":  "2026-08-15T18:11:11Z",
+    "notes":  "Fill select all button, fix multi branch selection-paste, copy branch between maps",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.068/FoxMind.exe",
+    "sha256":  "52fb6f61603de8666631e1e7bb8031cf81e19cb832565a7244906b1f7a8b39c6",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.068/FoxMindInstaller.exe",
+    "installer_sha256":  "d1aefd9ff6117e87a87f5ea01657ca9539a67b6a883ad3c281f4b361343c763d",
+    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.068/FoxMind.ex_",
+    "fallback_sha256":  "52fb6f61603de8666631e1e7bb8031cf81e19cb832565a7244906b1f7a8b39c6"
 }
