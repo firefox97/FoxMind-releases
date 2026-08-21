@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "0.1.068",
-    "released":  "2026-08-15T18:11:11Z",
-    "notes":  "Fill select all button, fix multi branch selection-paste, copy branch between maps",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.068/FoxMind.exe",
-    "sha256":  "52fb6f61603de8666631e1e7bb8031cf81e19cb832565a7244906b1f7a8b39c6",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.068/FoxMindInstaller.exe",
-    "installer_sha256":  "d1aefd9ff6117e87a87f5ea01657ca9539a67b6a883ad3c281f4b361343c763d",
-    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.068/FoxMind.ex_",
-    "fallback_sha256":  "52fb6f61603de8666631e1e7bb8031cf81e19cb832565a7244906b1f7a8b39c6"
+    "version":  "0.1.069",
+    "released":  "2026-08-21T11:58:40Z",
+    "notes":  "Perhaps fix for auth staying stuck.  Pull token from databases",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.069/FoxMind.exe",
+    "sha256":  "0cbe237d66304723d8ce11ac4785e7e808887ea0b51faf33e60f59a935f7ac64",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.069/FoxMindInstaller.exe",
+    "installer_sha256":  "9617f72d16c4eba15308e4901e3f89e3db68ef0d238142412eb848b4c00deac2",
+    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.069/FoxMind.ex_",
+    "fallback_sha256":  "0cbe237d66304723d8ce11ac4785e7e808887ea0b51faf33e60f59a935f7ac64"
 }
