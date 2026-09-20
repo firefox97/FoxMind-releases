@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "0.1.069",
-    "released":  "2026-08-21T11:58:40Z",
-    "notes":  "Perhaps fix for auth staying stuck.  Pull token from databases",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.069/FoxMind.exe",
-    "sha256":  "0cbe237d66304723d8ce11ac4785e7e808887ea0b51faf33e60f59a935f7ac64",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.069/FoxMindInstaller.exe",
-    "installer_sha256":  "9617f72d16c4eba15308e4901e3f89e3db68ef0d238142412eb848b4c00deac2",
-    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.069/FoxMind.ex_",
-    "fallback_sha256":  "0cbe237d66304723d8ce11ac4785e7e808887ea0b51faf33e60f59a935f7ac64"
+    "version":  "0.1.070",
+    "released":  "2026-09-20T12:19:06Z",
+    "notes":  "Fix http link insert.  Auth key focus, Auto open multiple sessions by desktop.",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.070/FoxMind.exe",
+    "sha256":  "ae1730d40fe5fdc1c3d2a10a5e0773a011bd594155bcba254eaa1f9da4b316a4",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.070/FoxMindInstaller.exe",
+    "installer_sha256":  "89fb8d6865cdd91e24e8e1ea316ccce272d2fcc2ef5fc452ab2beda2a24189e2",
+    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.070/FoxMind.ex_",
+    "fallback_sha256":  "ae1730d40fe5fdc1c3d2a10a5e0773a011bd594155bcba254eaa1f9da4b316a4"
 }
