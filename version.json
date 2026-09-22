@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "0.1.080",
-    "released":  "2026-09-20T17:28:14Z",
-    "notes":  "Change Edit Bar to only letters or expanded, add expand button",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.080/FoxMind.exe",
-    "sha256":  "5a09bcea0f747bf646c2965801ee6d5e6e8beb9b5b1d501c1bd3005e42af3ad3",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.080/FoxMindInstaller.exe",
-    "installer_sha256":  "7b527e3095ec1a9e0d9da7aaa509b2899733aa6136483dad3b7fa898e1ffc1ed",
-    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.080/FoxMind.ex_",
-    "fallback_sha256":  "5a09bcea0f747bf646c2965801ee6d5e6e8beb9b5b1d501c1bd3005e42af3ad3"
+    "version":  "0.1.081",
+    "released":  "2026-09-21T18:15:33Z",
+    "notes":  "Add saving realtime credentials.",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.081/FoxMind.exe",
+    "sha256":  "503d9311872d8d3e60033618aba5a55ca763c6b9f13c20726af1d062204806b5",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.081/FoxMindInstaller.exe",
+    "installer_sha256":  "5569e4108b9f4386a6260d9271105fd6a0281005f5d1fb676967d0e5449d5ca8",
+    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.081/FoxMind.ex_",
+    "fallback_sha256":  "503d9311872d8d3e60033618aba5a55ca763c6b9f13c20726af1d062204806b5"
 }
