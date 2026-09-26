@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "0.1.081",
-    "released":  "2026-09-21T18:15:33Z",
-    "notes":  "Add saving realtime credentials.",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.081/FoxMind.exe",
-    "sha256":  "503d9311872d8d3e60033618aba5a55ca763c6b9f13c20726af1d062204806b5",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.081/FoxMindInstaller.exe",
-    "installer_sha256":  "5569e4108b9f4386a6260d9271105fd6a0281005f5d1fb676967d0e5449d5ca8",
-    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.081/FoxMind.ex_",
-    "fallback_sha256":  "503d9311872d8d3e60033618aba5a55ca763c6b9f13c20726af1d062204806b5"
+    "version":  "0.1.082",
+    "released":  "2026-09-26T15:59:00Z",
+    "notes":  "Fix gutter selection to allow overwrite replacing gutter selection",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.082/FoxMind.exe",
+    "sha256":  "18a0e402901b4543bbd92a5c9c8854b87e1f901856ca01fbf0928c4dfd61464a",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.082/FoxMindInstaller.exe",
+    "installer_sha256":  "ca888edefb37b90076217533532328f6b97360c230e2678136738e2bc7f4b8a4",
+    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.082/FoxMind.ex_",
+    "fallback_sha256":  "18a0e402901b4543bbd92a5c9c8854b87e1f901856ca01fbf0928c4dfd61464a"
 }
