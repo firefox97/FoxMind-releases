@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "0.1.084",
-    "released":  "2026-10-06T22:01:04Z",
-    "notes":  "Fixed map switching freezing or getting stuck, and old cached maps now show right away and catch up in the background",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.084/FoxMind.exe",
-    "sha256":  "4b401527a6a554864a0b9adccd439c34d1353c13050564c9edbec39a50e17a4f",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.084/FoxMindInstaller.exe",
-    "installer_sha256":  "746ea405f2597f64ac7e3fcbfca8d1e73815a7fa94a7adf2ed2a9bbc26e2b7e2",
-    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.084/FoxMind.ex_",
-    "fallback_sha256":  "4b401527a6a554864a0b9adccd439c34d1353c13050564c9edbec39a50e17a4f"
+    "version":  "0.1.085",
+    "released":  "2026-10-06T22:12:32Z",
+    "notes":  "Fix instance matching desktop",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.085/FoxMind.exe",
+    "sha256":  "cacdcc94dbbd8cbceb533f6192bf4965064a8ae4da0b98854b1a3329c3e94125",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.085/FoxMindInstaller.exe",
+    "installer_sha256":  "e0d8dafb22f3461045dc181726b21123ca1e7443fb12667f28c0b076d9f5b8ce",
+    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.085/FoxMind.ex_",
+    "fallback_sha256":  "cacdcc94dbbd8cbceb533f6192bf4965064a8ae4da0b98854b1a3329c3e94125"
 }
