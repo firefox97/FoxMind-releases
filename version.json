@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "0.1.087",
-    "released":  "2026-10-24T13:08:03Z",
-    "notes":  "Fixes for changes made to both Android and pc",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.087/FoxMind.exe",
-    "sha256":  "3eee17af3eecaae364a636a2496a106888140201630945f30a4db8594b3dd850",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.087/FoxMindInstaller.exe",
-    "installer_sha256":  "fa2b850e6c747fd010f97b3abd20599b959b222f615f61752df96d4d3a8e1464",
-    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.087/FoxMind.ex_",
-    "fallback_sha256":  "3eee17af3eecaae364a636a2496a106888140201630945f30a4db8594b3dd850"
+    "version":  "0.1.088",
+    "released":  "2026-11-01T19:57:38Z",
+    "notes":  "Add sync log, try to catch blank items",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.088/FoxMind.exe",
+    "sha256":  "e0e08389a9a24d455a30658bc25d9515e070dcf4d44cfa6a8ad8a5a85c615f3a",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.088/FoxMindInstaller.exe",
+    "installer_sha256":  "89f21a20c1ed4ba713f610218e6e3d2d9e6dabc03b437c29d79d4b0ca9842af1",
+    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.088/FoxMind.ex_",
+    "fallback_sha256":  "e0e08389a9a24d455a30658bc25d9515e070dcf4d44cfa6a8ad8a5a85c615f3a"
 }
