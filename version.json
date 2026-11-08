@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "0.1.089",
-    "released":  "2026-11-07T14:33:57Z",
-    "notes":  "Remove image size text from preview image",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.089/FoxMind.exe",
-    "sha256":  "dc25128cc47c09bc27c11e88a0a7376562e3cd40eecb000397673e05f7f082ff",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.089/FoxMindInstaller.exe",
-    "installer_sha256":  "9b70427d085b046ddabd5a3a16fd46963b2db92ccfe611d175036059c4a645c8",
-    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.089/FoxMind.ex_",
-    "fallback_sha256":  "dc25128cc47c09bc27c11e88a0a7376562e3cd40eecb000397673e05f7f082ff"
+    "version":  "0.1.090",
+    "released":  "2026-11-07T18:14:16Z",
+    "notes":  "Fix for changes made but missed in cache save",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.090/FoxMind.exe",
+    "sha256":  "33b7a30bcf3137e29b012c8100772875e33c1192aef9d09825693be62dd82679",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.090/FoxMindInstaller.exe",
+    "installer_sha256":  "b4fd04b42bc40ef9d1e977a670cde7c8bccdf6b0697d078b84f0ea5143e0e8ae",
+    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.090/FoxMind.ex_",
+    "fallback_sha256":  "33b7a30bcf3137e29b012c8100772875e33c1192aef9d09825693be62dd82679"
 }
