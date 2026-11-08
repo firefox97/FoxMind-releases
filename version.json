@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "0.1.092",
-    "released":  "2026-11-08T11:23:38Z",
-    "notes":  "Status bar hint update.  Sync cleanup, better merging.",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.092/FoxMind.exe",
-    "sha256":  "35dd503d50f4916758a4863cc08ef9eb73c462cf3f4af2679f5678e65dd87814",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.092/FoxMindInstaller.exe",
-    "installer_sha256":  "01bc05be8c4259419f6ad50d2abf200b2b6474880063ab48d1225a7a40e48822",
-    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.092/FoxMind.ex_",
-    "fallback_sha256":  "35dd503d50f4916758a4863cc08ef9eb73c462cf3f4af2679f5678e65dd87814"
+    "version":  "0.1.093",
+    "released":  "2026-11-08T16:57:11Z",
+    "notes":  "Remember filter state on reopen.  Move Time Clear over by other controls.",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.093/FoxMind.exe",
+    "sha256":  "73845f7e56b28acb4f265439e40c26959b22e3d206f1dc7cf5bab91ea78e95e0",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.093/FoxMindInstaller.exe",
+    "installer_sha256":  "2ea00da558633898e4bcd02fe76e73d2852deb3240c2b8d33389fff9bde44538",
+    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.093/FoxMind.ex_",
+    "fallback_sha256":  "73845f7e56b28acb4f265439e40c26959b22e3d206f1dc7cf5bab91ea78e95e0"
 }
