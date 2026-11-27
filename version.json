@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "0.1.096",
-    "released":  "2026-11-23T13:47:19Z",
-    "notes":  "Node text shows headings, lists, code, quotes, highlights and nicer tables, like FoxText\n- Can now be updated by FoxUpdater\nSmarter editing: Enter continues lists and tables, Alt+Up/Down moves lines, Ctrl+Up/Down folds list items, and more\nEnter in a table cell moves the rest into an empty cell below; map back/forward is now Ctrl+Tab / Ctrl+Shift+Tab\nColumn (box) selection with Alt+drag, drag picked gutter rows to move them, Backspace removes a whole picture link\nAlt+drag starts a column selection even on a bracket; Alt+click swaps the ends of a selection or column box; deleting the first character of a picture link removes it whole\nTap Shift+Alt to swap the ends of a selection or column selection; Shift+Alt+click extends the selection\nShift+click extends a selection by letters, Ctrl+Shift+click by words; Alt during a drag-selection makes it a column selection",
-    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.096/FoxMindInstaller.exe",
-    "sha256":  "7cda525a2bc419b1907ee084b0df6d70e237506b85c63bd67299b8980a329027",
-    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.096/FoxMindInstaller.exe",
-    "installer_sha256":  "7cda525a2bc419b1907ee084b0df6d70e237506b85c63bd67299b8980a329027",
-    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.096/FoxMind.ex_",
-    "fallback_sha256":  "e76585b8426f38f970818fea438cbbfb77312bff940ac3ff4d545c372eacc123"
+    "version":  "0.1.097",
+    "released":  "2026-11-27T09:40:00Z",
+    "notes":  "Mindmap (work build) shows its icon on the window and taskbar again\nLong notes can be scrolled up while editing\nLicenses: a 10-day trial, then enter a license key (License… in the menu)",
+    "download_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.097/FoxMindInstaller.exe",
+    "sha256":  "39fb34f3b793d2ccabf1299357648e85377b2463e98a1278faf27a18b64f066a",
+    "installer_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.097/FoxMindInstaller.exe",
+    "installer_sha256":  "39fb34f3b793d2ccabf1299357648e85377b2463e98a1278faf27a18b64f066a",
+    "fallback_url":  "https://github.com/firefox97/FoxMind-releases/releases/download/v0.1.097/FoxMind.ex_",
+    "fallback_sha256":  "3e56e32077858e23a56d6f894f4a7b5b2763fca0f50e7db3d7afc6b9ea2ef875"
 }
